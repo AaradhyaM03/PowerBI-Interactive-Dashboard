@@ -1,0 +1,1 @@
+Designed an interactive Power BI dashboard to analyze electric vehicle trends, including vehicle distribution by state, model year trends, brand share, and eligibility insights using data visualization techniques.
